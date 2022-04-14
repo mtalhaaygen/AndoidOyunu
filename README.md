@@ -4,6 +4,4 @@
 
 **_Proje dizinindeki apk dosyası ile oyunu android telefonunuza yükleyebilirsiniz_**
 
-![Baslangic Ekrani](https://github.com/mtalhaaygen/AndoidOyunuilkOyun\app\src\main\res\main.png)
-
-![Oyun Ekrani](https://github.com/mtalhaaygen/AndoidOyunuilkOyun\app\src\main\res\oyunekrani.png)
+![Baslangic Ekrani](https://raw.githubusercontent.com/mtalhaaygen/AndoidOyunu/master/app/src/main/res/main.png)        ![Oyun Ekrani](https://raw.githubusercontent.com/mtalhaaygen/AndoidOyunu/master/app/src/main/res/oyunekrani.png)
