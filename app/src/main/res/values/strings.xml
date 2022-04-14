@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Oyun</string>
+    <string name="BAŞLA">BAŞLA</string>
+    <string name="_50_puan">50 PUAN</string>
+    <string name="oyun_biter">Oyun biter</string>
+    <string name="_20_puan">20 PUAN</string>
+</resources>
